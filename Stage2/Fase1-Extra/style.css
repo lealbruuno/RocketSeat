@@ -1,0 +1,64 @@
+body {
+    text-align: center; /*Centraliza todo o corpo do html*/
+    margin: 0; /*Margem zero para todo o corpo do body*/
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#hero{
+    width: 540px; /*Largura da da div*/
+    margin: 64px auto 12px;
+    height: 486px; /*Altura da div*/
+   }
+
+   h1{
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;    
+    color: #3F3D56;    
+   }
+
+   h1 strong{
+    color: #EE24FF;
+   }
+
+   p
+   {
+    font-family: 'Open Sans';
+    font-size: 15px;
+    color: #828282;
+    }
+
+   p span{
+    color: #3F3D56;
+    font-weight: 700;
+   }
+
+   .line{
+    width: 391px;
+    height: 0px;
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 5px;
+}
+
+   #footer a{
+    font-family: 'Open Sans';
+    color: #3F3D56;
+    font-weight: 700;
+    text-decoration:none
+   }
+
+   #footer a+a{
+    margin-left: 28px;
+}
+
+#wave{
+    position: absolute;
+    width: 100%; /*Largura total da imagem*/
+    height: 104px;  
+    background: #3F3D56;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+}
