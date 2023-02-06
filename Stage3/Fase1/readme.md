@@ -1,4 +1,4 @@
-# **State3 -** Fase1
+# **Stage3 -** Fase1
 
 Projeto construído no Stage03: Fase1 da Rocketseat
 
